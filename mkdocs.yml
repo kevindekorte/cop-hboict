@@ -1,0 +1,6 @@
+site_name: COP HBO-ICT testomgeving
+nav:
+  - Home: index.md
+  - About: about.md
+  - Andre: andre.md
+theme: readthedocs
